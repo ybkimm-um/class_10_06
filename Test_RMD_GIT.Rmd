@@ -1,0 +1,12 @@
+---
+title: "Test_RMD_GIT"
+author: "Young-Bin Kim"
+date: "2022-10-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
